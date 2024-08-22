@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor URL](https://your-solution-url.com)
-- Live Site URL: [Github Pages](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor URL](https://github.com/ItzCJ123/fm-3-column-preview.git)
+- Live Site URL: [Github Pages](https://itzcj123.github.io/fm-3-column-preview/)
 
 ## My process
 
